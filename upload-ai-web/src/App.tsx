@@ -57,7 +57,7 @@ export function App() {
           </p>
         </div>
 
-        <aside className="w-80 space-y-6">
+        <aside className="w-80 space-y-4">
           <form className="space-y-6">
             <label
               htmlFor="video"
@@ -95,7 +95,7 @@ export function App() {
 
           <Separator />
 
-          <form className="space-y-6">
+          <form className="space-y-4">
             <div className="space-y-2">
               <Label>Prompt</Label>
               <Select>
